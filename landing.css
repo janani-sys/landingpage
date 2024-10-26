@@ -1,0 +1,61 @@
+
+.one{
+    display: inline-block;
+    margin-left: 60px;
+}
+.two{
+    margin-left: 50px;
+
+}
+.three{
+    position: relative;
+    left: 20px;
+    bottom: 500px;
+    display: inline;
+    margin-left: 100px;
+}
+.four{
+    padding-left: 10px;
+}
+.five{
+    position: relative;
+    bottom: 300px;
+}
+.six{
+    position: relative;
+    bottom: 90px;
+}
+.seven{
+    position: relative;
+    bottom: 30px;
+}
+.eight{
+    position: relative;
+    bottom: 30px;
+}
+.nine{
+    position: relative;
+    bottom: 50px;
+}
+.ten{
+    position: relative;
+    bottom: 50px;
+}
+.eleven{
+    position: relative;
+    top: 40px;
+}
+.twelve{
+    position: relative;
+    top: 20px;
+}
+.onethree{
+    position: relative;
+    top: 20px;
+}
+.twothree{
+    text-align: center;
+    position: sticky;
+    z-index: 2;
+    
+}
